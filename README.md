@@ -1,8 +1,7 @@
-<<<<<<< HEAD
 This project was bootstrapped with Create React App.
 
-# DEMO
-`https://ramy-medhat.github.io/TodoList/`
+
+(Demo) [https://ramy-medhat.github.io/TodoList/]
 
 # Project Dependencies
 - create-react-app to start a very simple application
@@ -25,7 +24,3 @@ Open `http://localhost:3000` to view it in the browser.
 
 The page will reload if you make edits.
 You will also see any lint errors in the console.
-=======
-# TodoList
-My First Simple React TodoList Application 
->>>>>>> af3963115459e105125b10fac3005de09f2efcf1
