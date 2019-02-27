@@ -1,7 +1,7 @@
 {
   "name": "todolist",
   "version": "0.1.0",
-  "homepage": "https://github.com/Ramy-Medhat/TodoList",
+  "homepage": "https://ramy-medhat.github.io/TodoList/",
   "private": true,
   "dependencies": {
     "react": "^16.7.0",
